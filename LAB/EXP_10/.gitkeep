@@ -1,0 +1,5 @@
+free -h
+
+echo -e"Orange\nApple\nBanana" > fruits.txt
+
+history
