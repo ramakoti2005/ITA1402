@@ -1,0 +1,8 @@
+cd Documents
+
+pwd
+
+cp sample.txt backup.txt
+
+ls
+
