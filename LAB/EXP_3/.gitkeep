@@ -1,0 +1,5 @@
+tree
+
+head /etc/passwd
+
+tail /etc/passwd
