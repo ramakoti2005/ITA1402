@@ -1,5 +1,7 @@
 cd Documents
 
+touch sample.txt
+
 pwd
 
 cp sample.txt backup.txt
