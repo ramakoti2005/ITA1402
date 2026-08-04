@@ -2,3 +2,6 @@ touch sample.txt
 
 ls
 
+pwd
+
+wget https://example.com
