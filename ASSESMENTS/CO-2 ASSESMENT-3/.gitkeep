@@ -1,15 +1,1 @@
-1) dig abctechnologies.com
-    dig NS abctechnologies.com
-    theHarvester -d abctechnologies.com -b crtsh
-    subfinder -d abctechnologies.com -silent
-    whatweb https://abctechnologies.com
 
-2)  dig NS abctecnologies.com
-    dig NS abctechnologies.com +short
-    dig AXFR abctechnologies.com @ns1-03.azure-dns.com
-    dig AXFR abctechnologies.com @ns2-03.azure-dns.net
-3) dig NS abctechnologies.com
-   dig MX abctechnologies.com
-   dig A abctechnologies.com
-   curl -I https://abctechnologies.com
-   curl -I -L https://abctechnologies.com
